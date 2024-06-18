@@ -2,7 +2,7 @@ def hello_world():
     """
     Hàm để in ra chuỗi 'Hello, world!'
     """
-    print("Hello, world!1")
+    print("Hello, world!2")
 
 
 # Gọi hàm hello_world để in ra chuỗi "Hello, world!"
